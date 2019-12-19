@@ -1,4 +1,4 @@
-##Activity  
+Activity   
 [lifecycle](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3502554975,2818731732&fm=26&gp=0.jpg)  
 **关于activity的四个状态：**  
 running-paused-stopped-killed  
